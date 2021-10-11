@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-great-icons",
+  "files.trimTrailingWhitespace": true,
+  "editor.snippetSuggestions": "top",
+  "editor.fontFamily": "Fira Code, Consolas, Courier New,  monospace",
+  "editor.fontSize": 17,
+  "editor.lineHeight": 25,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "editor.scrollBeyondLastLine": false,
+  "diffEditor.renderSideBySide": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "flow.useLSP": false,
+  "editor.multiCursorModifier": "alt",
+  "vscode-exports-autocomplete.enable": false,
+  "sort-imports.on-save": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "color-highlight.enable": false
+}
